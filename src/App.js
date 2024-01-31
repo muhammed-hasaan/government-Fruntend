@@ -16,5 +16,6 @@ export default function App() {
       {/* Updated route with the correct parameter placeholder */}
       <Route path="/Qrdetail/id/:id" element={<QrDetail />} />
     </Routes>
+    // Testing for updating code
   );
 }
